@@ -97,7 +97,7 @@ Project Ownership       From idea and backend logic to deployment and observabil
 
 | Project | What It Shows | Tech |
 | --- | --- | --- |
-| [Intelli Hire](https://resume-analyser-8fsi.onrender.com) | AI-powered resume analyzer designed to support smarter hiring workflows. | React, Spring Boot, Groq API, Java, MongoDB, MySQL, Docker, Google OAuth2, GitHub Actions |
+| [Intelli Hire](https://intellihirewebapp1.up.railway.app/) | AI-powered resume analyzer designed to support smarter hiring workflows. | React, Spring Boot, Groq API, Java, MongoDB, MySQL, Docker, Google OAuth2, GitHub Actions |
 | Fit Freak AI | AI fitness application combining full-stack development, authentication, backend APIs, and CI/CD practices. | React, Spring Boot, Groq API, Java, MongoDB, MySQL, Docker, Google OAuth2, Jenkins |
 | [Log Monitor System](https://github.com/amandwivedi143/Log_Monitoring_System) | Real-time log monitoring and alerting system built around observability and DevOps workflows. | Linux, Bash, Grafana, Loki, Promtail, Docker, Docker Compose, Slack, React, Spring Boot |
 
